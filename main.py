@@ -32,7 +32,7 @@ def check_tag_sigs():
 
 
 def main():
-    # check_commit_sigs(git)
+    # check_commit_sigs()
     check_tag_sigs()
 
 
